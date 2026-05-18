@@ -1,2 +1,20 @@
-# Gestao-Tarefas-Python
-Sistema de gestão de tarefas em Python
+# Sistema de Gestão de Tarefas
+
+Projeto desenvolvido em Python para gerenciamento de tarefas.
+
+## Funcionalidades
+
+- Adicionar tarefas
+- Listar tarefas
+- Concluir tarefas
+- Remover tarefas
+
+## Tecnologias
+
+- Python
+- VS Code
+- Git/GitHub
+
+## Autor
+
+Victor Coelho Miranda
